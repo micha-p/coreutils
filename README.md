@@ -45,13 +45,12 @@ acpid, addgroup, adduser, adjtimex, ar, arp, arping, ash,
         vconfig, vi, vlock, volname, watch, watchdog, wc, wget, which, who,
         whoami, xargs, yes, zcat, zcip
         
-        The Open Group Base Specifications Issue 7
+The Open Group Base Specifications Issue 7
 IEEE Std 1003.1, 2013 Edition
 
-        http://pubs.opengroup.org/onlinepubs/9699919799/
+http://pubs.opengroup.org/onlinepubs/9699919799/
         
-        
-    admin
+admin
     alias
     ar
     asa
@@ -212,4 +211,6 @@ IEEE Std 1003.1, 2013 Edition
     yacc
     zcat
 
-        
+http://www.netbsd.org/docs/guide/en/netbsd.html
+
+http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/book.html      
