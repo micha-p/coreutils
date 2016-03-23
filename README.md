@@ -1,5 +1,24 @@
 # coreutils
 
+
+https://github.com/uutils/coreutils
+Cross-platform Rust rewrite of the GNU coreutils
+
+https://github.com/EricLagergren/go-coreutils
+A cross-platform port of GNU's coreutils to Go
+
+https://github.com/aisola/go-coreutils
+An attempt at a Go implementation of the GNU Coreutils
+
+https://github.com/piranna/coreutils.js
+Basic command line utilities, the Node.js way
+
+http://www.gnu.org/software/coreutils/manual/coreutils.html#Common-options
+
+• Backup options:	  	-b -S, in some programs.
+• Block size:	  	BLOCK_SIZE and –block-size, in some programs.
+• Traversing symlinks:	  	-H, -L, or -P, in some programs. 
+
 http://www.gnu.org/software/coreutils/manual/coreutils.html
 
 arch
