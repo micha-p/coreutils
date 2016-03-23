@@ -1,8 +1,14 @@
 # coreutils
 
+https://news.ycombinator.com/item?id=11337399
+https://news.ycombinator.com/item?id=11334597
 
 https://github.com/uutils/coreutils
 Cross-platform Rust rewrite of the GNU coreutils
+
+https://github.com/redox-os/coreutils
+This repository contains the core UNIX utilities for Redox OS. These are based on BSD coreutils rather than GNU coreutils as these tools should be as minimal as possible
+
 
 https://github.com/EricLagergren/go-coreutils
 A cross-platform port of GNU's coreutils to Go
@@ -12,6 +18,10 @@ An attempt at a Go implementation of the GNU Coreutils
 
 https://github.com/piranna/coreutils.js
 Basic command line utilities, the Node.js way
+
+https://github.com/dthree/cash
+Cross-platform Linux commands in ES6
+
 
 http://www.gnu.org/software/coreutils/manual/coreutils.html#Common-options
 
