@@ -22,6 +22,12 @@ Basic command line utilities, the Node.js way
 https://github.com/dthree/cash
 Cross-platform Linux commands in ES6
 
+https://github.com/def-/nimutils
+https://github.com/def-/nim-small-coreutils
+https://github.com/FreeBirdLjj/py-coreutils
+https://github.com/dcantrell/pycoreutils
+
+
 
 http://www.gnu.org/software/coreutils/manual/coreutils.html#Common-options
 
