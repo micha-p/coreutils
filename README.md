@@ -26,7 +26,7 @@ https://github.com/def-/nimutils
 https://github.com/def-/nim-small-coreutils
 https://github.com/FreeBirdLjj/py-coreutils
 https://github.com/dcantrell/pycoreutils
-
+https://github.com/vinnydiehl/ruby-coreutils
 
 
 http://www.gnu.org/software/coreutils/manual/coreutils.html#Common-options
@@ -49,7 +49,6 @@ chown
 chroot
 cksum
 comm
-coreutils
 cp
 csplit
 cut
